@@ -15,10 +15,10 @@
     line-height: @tab-height;
     font-size: @font-size;
     border-right: 1px solid @tab-border-color;
-    background-color: @tab-background-color;
+    background: linear-gradient(lighten(@tab-bar-background-color,10%),@tab-bar-background-color);
     &.active {
       color: @text-color-selected;
-      background-color: @tab-background-color-active;
+      background: linear-gradient(#FF819C,#6B2980);
     }
 
 

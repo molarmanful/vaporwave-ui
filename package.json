@@ -1,13 +1,13 @@
 {
-  "name": "ui-theme-template",
+  "name": "vaporwave-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "A vaporwave-inspired UI theme...",
   "keywords": [
     "ui",
     "theme"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/molarmanful/vaporwave-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
